@@ -43,3 +43,7 @@ https://hub.docker.com/r/rahma921/devops/tags
 
 ## deploy to render
 https://devops-2y7t.onrender.com
+
+
+![Capture d’écran 2025-02-26 191625](https://github.com/user-attachments/assets/6cd53bb6-bf2d-4e7e-bfd7-60c978a0c93a)
+![Capture d’écran 2025-02-26 192149](https://github.com/user-attachments/assets/8882f089-eceb-44e0-af56-53631ef355bb)
